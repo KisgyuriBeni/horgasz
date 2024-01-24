@@ -1,0 +1,28 @@
+{
+    "fishingspots": [
+      {
+        "id": 1,
+        "name": "Bátori Dániel",
+        "spot": 35,
+        "date": "2023-04-17",
+        "rods": 3,
+        "paid": true
+      },
+      {
+        "id": 2,
+        "name": "Szeredi Petra",
+        "spot": 23,
+        "date": "2023-04-19",
+        "rods": 9,
+        "paid": true
+      },
+      {
+        "id": 3,
+        "name": "Kovács Richárd",
+        "spot": 20,
+        "date": "2023-04-19",
+        "rods": 6,
+        "paid": false
+      }
+    ]
+}
